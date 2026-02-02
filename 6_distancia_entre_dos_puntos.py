@@ -28,6 +28,6 @@ print("La distancia entre los puntos es: ", distancia)
 que aprendi?
 
 Debo importar la libreria y la funcion sqrt para poder usarla
-la funcion sqrl me calcula la raiz cuadrada de un numero
+la funcion sqrl me calcula la raiz cuadrada de un numero 
 
 """
